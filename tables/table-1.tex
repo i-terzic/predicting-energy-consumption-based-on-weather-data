@@ -1,0 +1,41 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Tables}
+\author{Ivan Terzic}
+\date{November 2023}
+\usepackage{makecell}
+\usepackage{pdflscape}
+
+\begin{document}
+\begin{landscape}
+
+
+\begin{tabular}{|l|c|p{100mm}|}\hline
+\thead{Name}&\thead{Datentyp (\textit{pandas})} &\thead{Beschreibung}\\
+\hline
+Time   & object & Zeitstempel der Datenerfassung. \\
+\hline
+air\_pressure[mmHg]  & float64 & Luftdruck in mmHg. \\
+\hline
+air\_temperature[degree celcius] & float64 & Temperatur in ºC. \\
+\hline
+relative\_humidity[\%] & float64 & Relative Luftfeuchtigkeit in \%. \\
+\hline
+wind\_speed[M/S]  & float64 & Windgeschwindikeit in Meter pro Sekunde. \\
+\hline
+solar\_irridiation[W/m²] & int64 & Sonneneinstrahlung in Watt pro m². \\
+\hline
+total\_cloud\_cover[from ten]  & object & Skalare Wolkendichte (0-10). \\
+\hline
+electricity\_demand\_values[kw]  & float64 & Strombedarf in kW. \\
+\hline
+heat\_demand\_values[kw] & float64 & Wärmededarf in kW. \\
+\hline
+\end{tabular}
+\newline
+\newline
+
+\end{landscape}
+\end{document}
+
