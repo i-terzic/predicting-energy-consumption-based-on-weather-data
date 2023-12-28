@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Tables}
+\author{Ivan Terzic}
+\date{November 2023}
+\usepackage{makecell}
+\usepackage{pdflscape}
+
+\begin{document}
+\begin{landscape}
+
+
+\begin{tabular}{|l|c|c|c|}\hline
+\thead{Modell} &\thead{\textit{Lags}}&\thead{Wetterdaten}&\thead{MAPE} \\
+\hline
+RandomForestRegressor & Nein & Ja &  27.84 \% \\
+\hline
+RandomForestRegressor & Ja  & Nein & 7.80 \% \\
+\hline
+RandomForestRegressor & Ja  & Ja & 5.48 \% \\
+\hline
+\end{tabular}
+\newline
+\newline
+
+\end{landscape}
+\end{document}
+
