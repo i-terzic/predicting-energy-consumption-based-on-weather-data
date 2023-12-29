@@ -35,4 +35,4 @@ of a residual building from December 2010 until November 2018 in one-hour steps.
  
 
 ## References
-[1]   Taheri S, Jooshaki M, Moeini-Aghtaie M. Long-term planning of integrated local energy systems using deep learning algorithms. International Journal of Electrical Power & Energy Systems. 2021 Jul 1;129:106855. DOI: https://doi.org/10.1016/j.ijepes.2021.106855 
+[1]   Taheri S, Jooshaki M, Moeini-Aghtaie M. Long-term planning of integrated local energy systems using deep learning algorithms. International Journal of Electrical Power & Energy Systems. 2021 Jul 1;129:106855. DOI: https://doi.org/10.21227/dfvb-re49
