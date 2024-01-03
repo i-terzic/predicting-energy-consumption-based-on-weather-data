@@ -18,7 +18,7 @@ instructions.
 
 ```console
 conda env create -f ./env.yml
-conda env activate weather-prediction
+conda activate weather-prediction
 ```
 
 **Note**: If some updates are done to `env.yml` you will have to update the 
