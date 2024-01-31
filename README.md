@@ -37,8 +37,4 @@ of a residual building from December 2010 until November 2018 in one-hour steps.
  
 
 ## References
-[1]   Taheri S, Jooshaki M, Moeini-Aghtaie M. Long-term planning of integrated 
-local energy systems using deep learning algorithms. International Journal of 
-Electrical Power & Energy Systems. 2021 Jul 1;129:106855. 
-DOI: <a href="https://doi.org/10.21227/dfvb-re49 " target="_blank">
-https://doi.org/10.21227/dfvb-re49 </a>
+[1]   TAHERI, S., M. JOOSHAKI und M. MOEINI-AGHTAIE, 2021. 8 years of hourly heat and electricity demand for a residential building [online]. IEEE DataPort [Zugriff am: 3. Januar 2023]. Verfügbar unter: doi.org/10.21227/dfvb-re49
